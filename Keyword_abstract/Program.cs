@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Keyword_abstract.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,11 @@ namespace Keyword_abstract
     {
         static void Main(string[] args)
         {
+            Worker worker = new Worker("Joao", "12345678900");
+
+            worker.ShowData();
+
+            Console.ReadKey();
         }
     }
 }

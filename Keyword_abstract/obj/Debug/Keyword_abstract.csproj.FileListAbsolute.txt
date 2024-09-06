@@ -1,0 +1,7 @@
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_abstract\bin\Debug\Keyword_abstract.exe.config
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_abstract\bin\Debug\Keyword_abstract.exe
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_abstract\bin\Debug\Keyword_abstract.pdb
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_abstract\obj\Debug\Keyword_abstract.csproj.AssemblyReference.cache
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_abstract\obj\Debug\Keyword_abstract.csproj.CoreCompileInputs.cache
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_abstract\obj\Debug\Keyword_abstract.exe
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_abstract\obj\Debug\Keyword_abstract.pdb

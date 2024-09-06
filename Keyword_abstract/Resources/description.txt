@@ -1,0 +1,29 @@
+﻿A palavra-chave abstract em C# serve para definir classes e membros (métodos, propriedades, indexadores e eventos) 
+que são incompletos e precisam ser implementados em classes derivadas.
+_______________________________________________________________________________________________________________________
+Classes Abstratas
+
+* Não podem ser instanciadas diretamente: Isso significa que você não pode criar objetos diretamente a partir de uma classe abstrata.
+
+* Existem apenas para servir como base para outras classes: 
+Elas definem uma estrutura comum e características que as classes filhas devem ter.
+
+* Podem conter membros abstratos e concretos: Membros abstratos não têm implementação, 
+enquanto membros concretos possuem uma implementação.
+_______________________________________________________________________________________________________________________
+Membros Abstratos
+
+* Não possuem implementação: A assinatura do membro é declarada, mas o corpo do método fica vazio.
+
+* Devem ser implementados nas classes derivadas: As classes que herdam da classe abstrata devem 
+fornecer uma implementação específica para os membros abstratos.
+_______________________________________________________________________________________________________________________
+Quando usar abstract?
+
+* Quando você quer definir uma hierarquia de classes: As classes abstratas servem como ponto de 
+partida para criar classes mais específicas.
+
+* Os membros abstratos forçam as classes filhas a implementar comportamentos específicos.
+
+* Quando você quer criar um contrato entre classes: As classes abstratas definem um contrato que as classes derivadas devem cumprir.
+

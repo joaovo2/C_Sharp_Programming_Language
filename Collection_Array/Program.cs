@@ -10,6 +10,7 @@ namespace Collection_Array
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
