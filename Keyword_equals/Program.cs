@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Keyword_equals.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,13 @@ namespace Keyword_equals
     {
         static void Main(string[] args)
         {
+            Person p = new Person();
+            Animal a = new Animal();
+
+            Console.WriteLine(p.Equals(p));
+            Console.WriteLine(a.Equals(p));
+
+            Console.ReadKey();
         }
     }
 }

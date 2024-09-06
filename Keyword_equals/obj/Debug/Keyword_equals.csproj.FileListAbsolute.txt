@@ -1,0 +1,7 @@
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_equals\bin\Debug\Keyword_equals.exe.config
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_equals\bin\Debug\Keyword_equals.exe
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_equals\bin\Debug\Keyword_equals.pdb
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_equals\obj\Debug\Keyword_equals.csproj.AssemblyReference.cache
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_equals\obj\Debug\Keyword_equals.csproj.CoreCompileInputs.cache
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_equals\obj\Debug\Keyword_equals.exe
+C:\Users\joaov\InformationTechnology\LearningCSharp\Keyword_equals\obj\Debug\Keyword_equals.pdb

@@ -1,0 +1,11 @@
+﻿Em C#, a palavra-chave equals é utilizada para comparar a igualdade de dois objetos. 
+No entanto, sua funcionalidade precisa ser analisada com cuidado, pois seu comportamento pode variar dependendo do 
+contexto e da classe em questão.
+____________________________________________________________________________________________________________________________________
+Comparação de Referência vs. Comparação de Valor
+
+Comparação de Referência: Quando você usa o operador == para comparar dois objetos de referência (como classes),
+você está verificando se as duas variáveis apontam para o mesmo objeto na memória.
+
+Comparação de Valor: A palavra-chave Equals é geralmente usada para comparar o valor de dois objetos, 
+ou seja, se eles possuem os mesmos dados internos.

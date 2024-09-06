@@ -1,0 +1,5 @@
+﻿Em C#, a palavra-chave void é usada para indicar a ausência de um tipo em diversos contextos. 
+Sua principal função é comunicar ao compilador que:
+
+* Um método não retorna nenhum valor: Quando void é usado como o tipo de retorno de um método, 
+isso significa que o método não retorna nenhum valor para o chamador.
