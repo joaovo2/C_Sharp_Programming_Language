@@ -1,0 +1,2 @@
+﻿O tipo DateTime em C# é fundamental para representar instantes específicos no tempo, combinando tanto a data quanto a hora. 
+Ele oferece uma ampla gama de propriedades e métodos para manipulação e formatação de datas e horas.

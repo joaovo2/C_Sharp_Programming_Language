@@ -1,0 +1,7 @@
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Date_And_Time\bin\Debug\Working_With_Date_And_Time.exe.config
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Date_And_Time\bin\Debug\Working_With_Date_And_Time.exe
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Date_And_Time\bin\Debug\Working_With_Date_And_Time.pdb
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Date_And_Time\obj\Debug\Working_With_Date_And_Time.csproj.AssemblyReference.cache
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Date_And_Time\obj\Debug\Working_With_Date_And_Time.csproj.CoreCompileInputs.cache
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Date_And_Time\obj\Debug\Working_With_Date_And_Time.exe
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Date_And_Time\obj\Debug\Working_With_Date_And_Time.pdb
