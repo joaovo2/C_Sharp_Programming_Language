@@ -62,7 +62,7 @@ namespace Working_With_Date_And_Time
             Console.WriteLine("Date Time 2 formatado: {0}", FmtT2);
 
             Console.WriteLine("_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>_>");
-
+          
             TimeSpan TSpan = T1 - T2;
             Console.WriteLine("A diferença de dias entre a data 1 e a data 2 em dias = {0} dias", (int)TSpan.TotalDays);
 

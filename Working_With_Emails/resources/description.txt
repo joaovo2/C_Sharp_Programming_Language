@@ -1,0 +1,15 @@
+﻿Trabalhar com e-mails em C# é uma tarefa comum em diversas aplicações, desde notificações simples até sistemas 
+complexos de gerenciamento de mensagens. A linguagem oferece diversas ferramentas e bibliotecas para facilitar esse processo.
+_________________________________________________________________________________________________________________________________S
+Pontos importantes:
+
+* Servidor SMTP: Cada provedor de e-mail utiliza um servidor SMTP diferente, com suas respectivas configurações de porta e segurança (SSL/TLS).
+
+* Credenciais: Você precisará das credenciais da conta de e-mail que será utilizada para enviar as mensagens.
+
+* Segurança: Ative o SSL/TLS para garantir a segurança da conexão.
+
+* Anexos: Para adicionar anexos, utilize a propriedade Attachments da classe MailMessage.
+
+* HTML: Para formatar o corpo do e-mail em HTML, defina a propriedade IsBodyHtml como true.
+_________________________________________________________________________________________________________________________________

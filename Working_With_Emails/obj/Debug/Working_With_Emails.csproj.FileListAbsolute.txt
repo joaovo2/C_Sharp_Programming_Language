@@ -1,0 +1,7 @@
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Emails\bin\Debug\Working_With_Emails.exe.config
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Emails\bin\Debug\Working_With_Emails.exe
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Emails\bin\Debug\Working_With_Emails.pdb
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Emails\obj\Debug\Working_With_Emails.csproj.AssemblyReference.cache
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Emails\obj\Debug\Working_With_Emails.csproj.CoreCompileInputs.cache
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Emails\obj\Debug\Working_With_Emails.exe
+C:\Users\joaov\InformationTechnology\LearningCSharp\Working_With_Emails\obj\Debug\Working_With_Emails.pdb
